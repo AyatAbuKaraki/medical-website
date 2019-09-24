@@ -1,0 +1,295 @@
+body {
+	   font-family: "arial", sans-serif;
+	  width:1400px;
+	  margin:0 auto;
+	  background-color: #fff;
+}
+
+header{
+	    text-align: center;
+	      background-image:url("../image/m4.png");
+	          background-repeat: no-repeat;
+	       background-size: cover;
+	       height: 700px; 
+	     
+	    
+}
+
+a:link{
+	text-decoration: none;
+}
+
+.logo {
+	            float: left;
+	            font-size: 20px;
+                 line-height: 50px;
+	            padding-left: 80px;
+	            margin-left: 10px;
+
+}
+
+
+.navbar {
+	  
+	       float: left;
+	       line-height: 50px;
+	       padding-right: 0px;
+	       padding-left: 170px;
+	      word-spacing: 20px;
+	       margin-left: 100px;
+
+
+
+}
+
+.healthcare {  clear: both;
+               text-align: left;
+ 	            float: left;
+	            font-size: 20px;
+	            text-decoration: none;
+                 line-height: 50px;
+                  margin-left: 100px;
+                  margin-top: 140px;
+
+	             
+}
+
+
+.p2 {  
+	
+	 height:80%;
+	 width:30%;
+	 
+	 text-align: left;	
+	  color: black;
+	  margin: 20px;
+	  padding-top:60px;
+	  padding-bottom: 90px;
+	  float: left;
+	  background-color:#a7e9e1;
+	   border: 1px solid transparent; 
+	}
+
+
+	          
+
+.p1 {    
+	     clear:both;
+	     display: inline-block;
+	     float: left;
+	     display: inline-block;
+	     margin-left: 10px;	    
+	text-align: center;	  
+}
+
+h2 {
+	color: #002699;
+}
+
+.button {
+
+	       text-decoration: none;
+	       background-color:white;
+	      color: black;
+	        padding: 10px 16px;
+	       font-size: 16px;
+	       text-align: center;
+	      border-radius: 15px;
+	      border: 2px solid transparent;
+}
+
+.button:hover {
+	               border: 2px solid #002699;
+	               background-color: transparent;
+}
+
+.lap {
+	   text-align: justify;
+	   display: inline-block;
+      float: left;
+}
+
+#para{
+	     color: #002699;
+
+}
+
+.buttonm {
+	        text-decoration: none;
+	        background-color:#DCDCDC;
+	        color: black;
+	        padding: 18px;
+	        padding-right: 20px;
+	       
+	        margin-top:20%;
+	       font-size: 16px;
+	       text-align: center;
+	       border-radius: 10px;
+
+	     
+}
+
+.help {
+	      clear: both;
+	      margin-top:1000px;
+	      
+}
+
+.helps {
+	      background-image: url("../image/backgblue.png");
+	      background-repeat: no-repeat;	
+	      height: 1000px;
+	      width: 1400px;
+	    
+	       
+}
+
+.helpservices {
+	           
+	        
+	          display: inline-block;
+	          margin-left: 80px;
+	          margin-top: 70px;
+	          background-color: white;
+	          border: 2px solid transparent;
+}
+
+.help1 {
+	          float: left;
+	          height:400px;
+	          width:200px;
+	          margin-left:20px;
+	          padding-left: 50px;
+	          padding-right: 60px;
+	         text-align: left;
+
+	        
+
+}
+
+.help2 {      float: left;
+	          height:400px;
+	          width:200px;
+	          margin-left:20px;
+	          padding-left:50px;
+	          padding-right: 60px;
+	         text-align: left;	        
+}
+
+.dentist {   
+	      
+	       margin-left:170px;
+	       margin-top: 20px;
+	       float: left;
+	       width: 600px;
+	       height: 400px;
+	       text-align:left;
+}
+
+.image {
+	      float:right;
+	   
+}
+
+.view {
+	    color: white;
+	    background-color: #7FFFD4;
+	    padding:15px;
+	      border-radius: 10px;
+	    text-decoration: none;
+	    font-size: 16px;
+	       text-align: center;
+}
+
+.view:hover {
+	               border: 2px solid #7FFFD4;
+	               background-color: transparent;
+	               color: black;
+}
+
+
+.numbers {
+	       
+	       float: left;
+	          height:400px;
+	          width:200px;
+	          margin-left:20px;
+	          padding-left: 50px;
+	          margin-top: 40px;
+	          padding-right: 60px;
+	         text-align: center;        
+
+}
+.numberserv {
+	           clear: both;
+	           background-color:#DCDCDC;
+	           font-size: 16px; 
+	           padding-top:40px;
+	          padding-bottom: 50px;
+	        margin: 40 20%;
+	        margin-bottom: 10%;
+	        height: 150px;
+}
+
+.offers {
+	      clear: both;
+	      margin-top:40px;
+	      background-image: url("../image/medical.jpg");
+	      background-repeat: no-repeat;	
+	      height: 1000px;
+	      width: 1400px;
+	      
+}
+
+
+.offersdetail2 {  
+	
+	  
+	 text-align: center;	
+	  color: black;
+	  margin: 20px;
+	  padding: 60px 0px 90px 10px;
+	  float: left;
+	  background-color:#AFEEEE;
+	   border: 1px solid transparent; 
+	
+	}
+
+
+.offersdetail22 { 
+	              height:90%;
+	              width:50%; 
+	              text-align: center;	
+	              color: black;
+	              margin: 20px;
+	              padding: 60px 0px 90px 10px;
+	              float: left;
+	              background-color:white;
+	              border: 1px solid transparent;
+}
+
+.buttonbook {
+
+	       text-decoration: none;
+	       background-color:#4169E1;
+	      color: white;
+	        padding: 10px 16px;
+	       font-size: 16px;
+	       text-align: center;
+	      border-radius: 15px;
+	      border: 2px solid transparent;
+}
+
+.buttonbook:hover {
+	               border: 2px solid #002699;
+	               background-color: transparent;
+	               color: black;
+
+}        
+
+.offersdetail {    
+	     clear:both;
+	     display: inline-block;
+	     margin-left: 10px;	    
+	     text-align: center;	  
+}
